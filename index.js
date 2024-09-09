@@ -12,6 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-
 const version = "1.0.0";
 console.log(`test-action v${version}`);

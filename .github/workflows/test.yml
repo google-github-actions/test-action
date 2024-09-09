@@ -28,3 +28,12 @@ jobs:
 
       - name: 'Test Action'
         uses: 'google-github-actions/test-action@v1.0.0' # ratchet:exclude
+
+      - name: 'Test Action'
+        uses: 'google-github-actions/test-action@v1.0.1' # ratchet:exclude
+
+      - name: 'Test Action'
+        uses: 'google-github-actions/test-action@v2.0.0' # ratchet:exclude
+
+      - name: 'Test Action'
+        uses: 'google-github-actions/test-action@v2.0.1' # ratchet:exclude
